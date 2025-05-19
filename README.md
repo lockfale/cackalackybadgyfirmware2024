@@ -46,6 +46,8 @@ All the information that you were hoping for related to the badge from [Cackalac
 - [Conference version](https://github.com/lockfale/cackalackabadgyfirmware2024/tree/main/firmware/conference)
 - [Develpment/testing version](https://github.com/lockfale/cackalackabadgyfirmware2024/tree/main/firmware/developers)
 - [@nutcrunch's writeup on the backend/infra](https://medium.com/@persinac/cackalacky-con-2024-retro-backend-infra-6a5517f5c117)
+- [Badge API](https://github.com/lockfale/cackalacky-badge-api)
+- [Score processor](https://github.com/lockfale/cackalacky-high-score-processor)
 
 ## Those responsible
 - [@melvin2001](https://github.com/melvin2001)
