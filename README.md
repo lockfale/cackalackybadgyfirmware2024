@@ -42,9 +42,10 @@ All the information that you were hoping for related to the badge from [Cackalac
 <RID> - shows the badge's real id
 <UUID> - shows the badge's UUID
 ```
-## Firmware
+## Firmware/Backend/Infra
 - [Conference version](https://github.com/lockfale/cackalackabadgyfirmware2024/tree/main/firmware/conference)
 - [Develpment/testing version](https://github.com/lockfale/cackalackabadgyfirmware2024/tree/main/firmware/developers)
+- [@nutcrunch's writeup on the backend/infra](https://medium.com/@persinac/cackalacky-con-2024-retro-backend-infra-6a5517f5c117)
 
 ## Those responsible
 - [@melvin2001](https://github.com/melvin2001)
@@ -53,5 +54,4 @@ All the information that you were hoping for related to the badge from [Cackalac
 
 ## Links
 - [Cackalackybadgy Firmware 2025](https://github.com/lockfale/cackalackybadgyfirmware2025)
-- [@nutcrunch's writeup on the backend/infra](https://medium.com/@persinac/cackalacky-con-2024-retro-backend-infra-6a5517f5c117)
 
