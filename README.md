@@ -50,3 +50,6 @@ All the information that you were hoping for related to the badge from [Cackalac
 * [@melvin2001](https://github.com/melvin2001)
 * [@nutcrunch](https://github.com/persinac)
 * [@pandatrax](https://github.com/pandatrax)
+
+## Links
+[Cackalackybadgy Firmware 2025](https://github.com/lockfale/cackalackybadgyfirmware2025)
