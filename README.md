@@ -47,9 +47,11 @@ All the information that you were hoping for related to the badge from [Cackalac
 - [Develpment/testing version](https://github.com/lockfale/cackalackabadgyfirmware2024/tree/main/firmware/developers)
 
 ## Those responsible
-* [@melvin2001](https://github.com/melvin2001)
-* [@nutcrunch](https://github.com/persinac)
-* [@pandatrax](https://github.com/pandatrax)
+- [@melvin2001](https://github.com/melvin2001)
+- [@nutcrunch](https://github.com/persinac)
+- [@pandatrax](https://github.com/pandatrax)
 
 ## Links
-[Cackalackybadgy Firmware 2025](https://github.com/lockfale/cackalackybadgyfirmware2025)
+- [Cackalackybadgy Firmware 2025](https://github.com/lockfale/cackalackybadgyfirmware2025)
+- [@nutcrunch's writeup on the backend/infra](https://medium.com/@persinac/cackalacky-con-2024-retro-backend-infra-6a5517f5c117)
+
