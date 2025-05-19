@@ -43,8 +43,8 @@ All the information that you were hoping for related to the badge from [Cackalac
 <UUID> - shows the badge's UUID
 ```
 ## Firmware/Backend/Infra
-- [Conference version](https://github.com/lockfale/cackalackabadgyfirmware2024/tree/main/firmware/conference)
-- [Develpment/testing version](https://github.com/lockfale/cackalackabadgyfirmware2024/tree/main/firmware/developers)
+- [Firmware - Conference version](https://github.com/lockfale/cackalackabadgyfirmware2024/tree/main/firmware/conference)
+- [Firmware - Develpment/testing version](https://github.com/lockfale/cackalackabadgyfirmware2024/tree/main/firmware/developers)
 - [@nutcrunch's writeup on the backend/infra](https://medium.com/@persinac/cackalacky-con-2024-retro-backend-infra-6a5517f5c117)
 - [Badge API](https://github.com/lockfale/cackalacky-badge-api)
 - [Score processor](https://github.com/lockfale/cackalacky-high-score-processor)
